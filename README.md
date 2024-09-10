@@ -6,15 +6,15 @@
 
 · The Zomato Restaurant Dataset is an extensive collection of restaurant information obtained from the Zomato food delivery platform from 2010 to 2018, covering a diverse range of countries. This dataset encompasses a wide range of details, including restaurant names, locations, cuisines, ratings, and other relevant attributes, offering a comprehensive view of dining options.
 
-## Key Highlights :
+## Data Cleaning :
 
-· Data Cleaning & Preprocessing: Implemented robust data cleaning techniques to handle missing values, duplicates, outliers, and inconsistencies.
+· Handling Missing Values: Identified and addressed missing or incomplete data entries.
 
-· Exploratory Data Analysis: Utilized various visualization tools to identify patterns and correlations within the data.
+· Removing Duplicates: Ensured that duplicate records were eliminated to maintain data integrity.
 
-· Actionable Insights: Derived key insights from the given raw dataset as per the requirement of the company.
+· Standardizing Formats: Unified data formats and corrected inconsistencies across various fields.
 
-· Suggestions: From the derived insights, some recommendations are suggested to the company for their business improvement.
+· Validating Data: Verified data accuracy and consistency to ensure reliable analysis.
 
 ## Tools & Technologies Used :
 

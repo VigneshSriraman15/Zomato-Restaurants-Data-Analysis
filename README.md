@@ -1,4 +1,4 @@
-# Zomato Restaurats Data Analysis :-
+# Zomato Restaurants Data Analysis :-
 
 ## Introduction :
 
